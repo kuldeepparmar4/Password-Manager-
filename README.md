@@ -33,5 +33,3 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 - Decryption: Each character is shifted by -3
 
 ---
-
-## 📂 Project Structure
