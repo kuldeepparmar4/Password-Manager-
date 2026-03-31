@@ -51,5 +51,12 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 
 ---
 
+## 📸 Screenshots
+
+| Feature | Image |
+|---------|-------|
+| Main Menu | ![Menu](screenshot/Menu.png) |
+| Add Credential | ![Add](screenshot/add_credential.png) |
+| View Credentials | ![View](screenshot/view_credentials.png) |
 
 
