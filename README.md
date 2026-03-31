@@ -33,3 +33,26 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 - Decryption: Each character is shifted by -3
 
 ---
+
+##  How to Run
+
+1. Compile the program: javac *.java
+2. Run the program: java Main
+
+---
+
+##  Screenshots
+
+###  Main Menu
+(Menu.png)
+
+###  Add Credential
+(add credential.png)
+
+###  View Credentials
+(view credentials.png)
+
+---
+
+##  Author
+Kuldeep Parmar
