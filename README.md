@@ -34,10 +34,20 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 
 ---
 
+## Future Enhancements
+- Add strong encryption (AES)
+- GUI version
+- Master password protection
+
+---
+
 ##  How to Run
 
-1. Compile the program: javac *.java
-2. Run the program: java Main
+1. open terminal in project folder
+2. Compile the program:
+   javac *.java
+3. Run the program:
+   java Main
 
 ---
 
