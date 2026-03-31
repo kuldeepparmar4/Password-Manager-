@@ -41,16 +41,13 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
-###  Main Menu
-(Menu.png)
-
-###  Add Credential
-(add credential.png)
-
-###  View Credentials
-(view credentials.png)
+| Feature | Image |
+|---------|-------|
+| Main Menu | ![Menu](Menu.png) |
+| Add Credential | ![Add](add credential.png) |
+| View Credentials | ![View](view credentials.png) |
 
 ---
 
