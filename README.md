@@ -46,8 +46,8 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 | Feature | Image |
 |---------|-------|
 | Main Menu | ![Menu](Menu.png) |
-| Add Credential | ![Add](add credential.png) |
-| View Credentials | ![View](view credentials.png) |
+| Add Credential | ![Add](add_credential.png) |
+| View Credentials | ![View](view_credentials.png) |
 
 ---
 
