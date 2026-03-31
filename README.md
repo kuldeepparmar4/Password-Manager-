@@ -51,7 +51,7 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Feature | Image |
 |---------|-------|
@@ -59,7 +59,3 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 | Add Credential | ![Add](add_credential.png) |
 | View Credentials | ![View](view_credentials.png) |
 
----
-
-##  Author
-Kuldeep Parmar
