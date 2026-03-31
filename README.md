@@ -51,7 +51,7 @@ Passwords are encrypted using a simple Caesar Cipher technique:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Feature | Image |
 |---------|-------|
